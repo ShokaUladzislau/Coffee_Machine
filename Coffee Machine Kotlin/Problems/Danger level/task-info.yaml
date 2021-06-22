@@ -1,0 +1,29 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    enum class DangerLevel {
+        HIGH,
+        MEDIUM,
+        LOW
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6251#comment
+status: Unchecked
+feedback:
+  message: |
+    Service is down, try again later
+
+
+    <!doctype html>
+    <html lang="en">
+    <head>
+      <title>Server Error (500)</title>
+    </head>
+    <body>
+      <h1>Server Error (500)</h1><p></p>
+    </body>
+    </html>
+  time: Tue, 22 Jun 2021 21:21:52 UTC
+record: -1
